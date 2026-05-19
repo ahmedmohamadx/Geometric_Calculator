@@ -58,4 +58,4 @@ The calculations and input parsing are wrapped in `try` and `catch` blocks to ha
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Zeus62/Geometic_Calculator.git
+   git clone https://github.com/ahmedmohamadx/Geometric_Calculator.git
